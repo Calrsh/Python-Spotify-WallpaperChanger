@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/90c907e2-12c6-4c75-b3bc-7a949edc0977)This is a personal project that I have been wanting to do - the objective was to make a wallpaper changer for windows.
+This is a personal project that I have been wanting to do - the objective was to make a wallpaper changer for windows.
 
 This project uses CustomTkinter for its UI setup, as well as pystray for sending the application to the tray.
 
